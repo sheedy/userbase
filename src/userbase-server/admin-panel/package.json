@@ -17,8 +17,8 @@
     "@fortawesome/react-fontawesome": "^0.1.8",
     "axios": "^0.19.0",
     "babel-polyfill": "^6.26.0",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
     "serialize-javascript": ">=2.1.1",
     "uuid": "^7.0.2"
   },
